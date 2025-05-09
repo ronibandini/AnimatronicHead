@@ -16,6 +16,10 @@ Gravity: Offline Edge AI Gesture & Face Detection Sensor https://www.dfrobot.com
 1 3d filament spool
 Synthetic hair
 
+# 3d parts
+
+https://cults3d.com/en/3d-model/gadget/animatronic-head
+
 # Circuit
 
 Face detection module is connected to SDA, SCL and external power supply.
