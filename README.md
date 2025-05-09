@@ -5,6 +5,10 @@ Simple Arduino animatronic head with AI Face detection, head, eyes and mouth mov
 
 Source code https://github.com/ronibandini/AnimatronicHead/tree/main/v2
 
+# Video
+
+https://www.youtube.com/shorts/Njd78ublR0o 
+
 # Carlos Busqued version
 Complete story at https://bandini.medium.com/no-soy-una-persona-la-cabeza-animatronic-de-carlos-busqued-58d94e1422b
 Video at https://www.youtube.com/watch?v=AgYJO-VBd8I
